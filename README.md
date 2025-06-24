@@ -47,3 +47,4 @@ Use WASD to move around the outer space. Use SPACE to shoot the asteroids. Be ca
 - [ ] Add a shield power-up
 - [ ] Add a speed power-up
 - [ ] Add bombs that can be dropped
+- [ ] Support screen resizing through command line arguments
