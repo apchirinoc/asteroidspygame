@@ -2,6 +2,33 @@
 
 Destroy the asteroids by shooting from your spaceship!
 
+## Prerequisites
+
+- Python 3.11
+
+## Setup
+
+1. Create a python virtual environment and activate it:
+
+    ```bash
+    $ virtualenv -p `which python3.11` .venv
+    $ source .venv/bin/activate
+    (.venv) $ which pip
+    /path/to/your/venv/bin/pip
+    ```
+
+2. Install dependencies:
+
+    ```bash
+    (.venv) $ pip install -r requirements.txt
+    ```
+
+3. Run and enjoy:
+
+    ```bash
+    (.venv) $ python main.py
+    ```
+
 ## Next steps
 
 - [ ] Add a scoring system
