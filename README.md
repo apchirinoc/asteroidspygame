@@ -48,3 +48,4 @@ Use WASD to move around the outer space. Use SPACE to shoot the asteroids. Be ca
 - [ ] Add a speed power-up
 - [ ] Add bombs that can be dropped
 - [ ] Support screen resizing through command line arguments
+- [ ] Add a Game Over screen. Let players decide to start playing again
