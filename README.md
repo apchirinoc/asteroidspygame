@@ -29,6 +29,10 @@ Destroy the asteroids by shooting from your spaceship!
     (.venv) $ python main.py
     ```
 
+## How to play
+
+Use WASD to move around the outer space. Use SPACE to shoot the asteroids. Be careful not to be hit by one of them!
+
 ## Next steps
 
 - [ ] Add a scoring system
